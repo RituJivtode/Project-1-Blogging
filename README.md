@@ -19,7 +19,7 @@ Repository for backend cohort - Uranium
 ### Author APIs /authors
 - Create an author - atleast 5 authors
 - Create a author document from request body.
-  `Endpoint: BASE_URL/authors`
+  `Endpoint: BASE_URL/authors`"
 
 ### POST /blogs
 - Create a blog document from request body. Get authorId in request body only.
